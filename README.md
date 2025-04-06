@@ -1,4 +1,4 @@
-# 👋 Islam Yeluberken — Flutter Developer
+# 👋 Islam Yelyubergen — Flutter Developer
 
 [📄 Скачать резюме (PDF)](https://github.com/Trivalll/resume/blob/main/Islam_Yeluberken_CV_Flutter.pdf)
 
