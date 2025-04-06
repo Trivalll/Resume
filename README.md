@@ -1,6 +1,6 @@
 # 👋 Islam Yelyubergen — Flutter Developer
 
-[📄 Скачать резюме (PDF)](https://github.com/Trivalll/resume/blob/main/Islam_Yeluberken_CV_Flutter.pdf)
+[📄 Скачать резюме (PDF)](https://github.com/Trivalll/Resume/blob/main/Islam_Yelyubergen_CV_Flutter.pdf)
 
 ## 🧠 Навыки
 
